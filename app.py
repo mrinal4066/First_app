@@ -3,9 +3,7 @@
 from flask import Flask, render_template,request
 import pandas as pd
 import numpy as np
-import sklearn
 import pickle
-import joblib
 app = Flask(__name__)
 
 model_name= open("ModelMl.pkl","rb")
