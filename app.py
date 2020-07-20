@@ -6,7 +6,7 @@ import numpy as np
 import pickle
 app = Flask(__name__)
 
-model_name= open("ModelMl.pkl","rb")
+model_name= open("ModelML.pkl","rb")
 model=pickle.load(model_name)
 
 
