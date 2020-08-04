@@ -37,6 +37,8 @@ How its Made:
      
      step 3: model.pkl file is load and output has been predicted.
      
+     Deployement To Cloud: Finally, the model has been deploye to cloud using heroku Cloud service and is full fledge website to use.
+     
 License: https://github.com/mrinal4066/First_app/blob/master/LICENSE
      
      
